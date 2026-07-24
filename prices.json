@@ -1,6 +1,74 @@
 {
-  "fetched_at": null,
-  "status": "pending_first_run",
-  "note": "Placeholder. Run the 'Update metal prices' workflow once (Actions tab -> Run workflow) and this file will be overwritten with live data.",
-  "prices": {}
+  "fetched_at": "2026-07-24T01:13:35.736Z",
+  "base": "USD",
+  "metals": {
+    "XAU": {
+      "usd_per_oz": 4041.555
+    },
+    "XAG": {
+      "usd_per_oz": 57.447
+    }
+  },
+  "fx": {
+    "USD": 1,
+    "EUR": 0.878195,
+    "GBP": 0.750346,
+    "MAD": 9.378265,
+    "SAR": 3.75,
+    "IDR": 17944.390984
+  },
+  "nisab_standard": {
+    "gold_grams": 87.48,
+    "silver_grams": 612.36
+  },
+  "prices": {
+    "USD": {
+      "gold_per_gram": 129.939,
+      "silver_per_gram": 1.847,
+      "gold_per_oz": 4041.55,
+      "silver_per_oz": 57.45,
+      "nisab_gold": 11367.06,
+      "nisab_silver": 1131.01
+    },
+    "EUR": {
+      "gold_per_gram": 114.1118,
+      "silver_per_gram": 1.622,
+      "gold_per_oz": 3549.27,
+      "silver_per_oz": 50.45,
+      "nisab_gold": 9982.5,
+      "nisab_silver": 993.24
+    },
+    "GBP": {
+      "gold_per_gram": 97.4992,
+      "silver_per_gram": 1.3859,
+      "gold_per_oz": 3032.56,
+      "silver_per_oz": 43.11,
+      "nisab_gold": 8529.23,
+      "nisab_silver": 848.65
+    },
+    "MAD": {
+      "gold_per_gram": 1218.6025,
+      "silver_per_gram": 17.3213,
+      "gold_per_oz": 37902.77,
+      "silver_per_oz": 538.75,
+      "nisab_gold": 106603.34,
+      "nisab_silver": 10606.88
+    },
+    "SAR": {
+      "gold_per_gram": 487.2713,
+      "silver_per_gram": 6.9261,
+      "gold_per_oz": 15155.83,
+      "silver_per_oz": 215.43,
+      "nisab_gold": 42626.49,
+      "nisab_silver": 4241.28
+    },
+    "IDR": {
+      "gold_per_gram": 2331676.4094,
+      "silver_per_gram": 33142.643,
+      "gold_per_oz": 72523243.1,
+      "silver_per_oz": 1030851.43,
+      "nisab_gold": 203975052.29,
+      "nisab_silver": 20295228.89
+    }
+  }
 }
