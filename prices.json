@@ -1,0 +1,6 @@
+{
+  "fetched_at": null,
+  "status": "pending_first_run",
+  "note": "Placeholder. Run the 'Update metal prices' workflow once (Actions tab -> Run workflow) and this file will be overwritten with live data.",
+  "prices": {}
+}
