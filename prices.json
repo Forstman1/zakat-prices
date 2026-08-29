@@ -1,21 +1,21 @@
 {
-  "fetched_at": "2026-08-28T19:10:47.218Z",
+  "fetched_at": "2026-08-29T12:54:30.900Z",
   "base": "USD",
   "metals": {
     "XAU": {
-      "usd_per_oz": 4458.75
+      "usd_per_oz": 4454.925
     },
     "XAG": {
-      "usd_per_oz": 66.3515
+      "usd_per_oz": 66.384
     }
   },
   "fx": {
     "USD": 1,
-    "EUR": 0.858266,
-    "GBP": 0.735818,
-    "MAD": 9.248333,
+    "EUR": 0.861354,
+    "GBP": 0.737868,
+    "MAD": 9.251179,
     "SAR": 3.75,
-    "IDR": 17744.923171
+    "IDR": 17701.341153
   },
   "nisab_standard": {
     "gold_grams": 87.48,
@@ -23,52 +23,52 @@
   },
   "prices": {
     "USD": {
-      "gold_per_gram": 143.3521,
-      "silver_per_gram": 2.1333,
-      "gold_per_oz": 4458.75,
-      "silver_per_oz": 66.35,
-      "nisab_gold": 12540.45,
-      "nisab_silver": 1306.32
+      "gold_per_gram": 143.2292,
+      "silver_per_gram": 2.1343,
+      "gold_per_oz": 4454.93,
+      "silver_per_oz": 66.38,
+      "nisab_gold": 12529.69,
+      "nisab_silver": 1306.96
     },
     "EUR": {
-      "gold_per_gram": 123.0343,
-      "silver_per_gram": 1.8309,
-      "gold_per_oz": 3826.79,
-      "silver_per_oz": 56.95,
-      "nisab_gold": 10763.04,
-      "nisab_silver": 1121.17
+      "gold_per_gram": 123.371,
+      "silver_per_gram": 1.8384,
+      "gold_per_oz": 3837.27,
+      "silver_per_oz": 57.18,
+      "nisab_gold": 10792.5,
+      "nisab_silver": 1125.75
     },
     "GBP": {
-      "gold_per_gram": 105.4811,
-      "silver_per_gram": 1.5697,
-      "gold_per_oz": 3280.83,
-      "silver_per_oz": 48.82,
-      "nisab_gold": 9227.49,
-      "nisab_silver": 961.21
+      "gold_per_gram": 105.6842,
+      "silver_per_gram": 1.5748,
+      "gold_per_oz": 3287.15,
+      "silver_per_oz": 48.98,
+      "nisab_gold": 9245.26,
+      "nisab_silver": 964.36
     },
     "MAD": {
-      "gold_per_gram": 1325.7683,
-      "silver_per_gram": 19.729,
-      "gold_per_oz": 41236,
-      "silver_per_oz": 613.64,
-      "nisab_gold": 115978.21,
-      "nisab_silver": 12081.26
+      "gold_per_gram": 1325.0386,
+      "silver_per_gram": 19.7447,
+      "gold_per_oz": 41213.31,
+      "silver_per_oz": 614.13,
+      "nisab_gold": 115914.38,
+      "nisab_silver": 12090.89
     },
     "SAR": {
-      "gold_per_gram": 537.5705,
-      "silver_per_gram": 7.9997,
-      "gold_per_oz": 16720.31,
-      "silver_per_oz": 248.82,
-      "nisab_gold": 47026.67,
-      "nisab_silver": 4898.69
+      "gold_per_gram": 537.1094,
+      "silver_per_gram": 8.0036,
+      "gold_per_oz": 16705.97,
+      "silver_per_oz": 248.94,
+      "nisab_gold": 46986.33,
+      "nisab_silver": 4901.09
     },
     "IDR": {
-      "gold_per_gram": 2543772.7331,
-      "silver_per_gram": 37854.362,
-      "gold_per_oz": 79120176.19,
-      "silver_per_oz": 1177402.27,
-      "nisab_gold": 222529238.69,
-      "nisab_silver": 23180497.11
+      "gold_per_gram": 2535348.3067,
+      "silver_per_gram": 37779.8868,
+      "gold_per_oz": 78858147.24,
+      "silver_per_oz": 1175085.83,
+      "nisab_gold": 221792269.87,
+      "nisab_silver": 23134891.45
     }
   }
 }
